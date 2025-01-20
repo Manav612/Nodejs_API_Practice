@@ -1,0 +1,16 @@
+{
+  "name": "airlinessystem",
+  "version": "1.0.0",
+  "description": "A basic started biolerplate project for node ",
+  "main": "index.js",
+  "scripts": {
+    "dev" : "npx nodemon src/index.js"
+  },
+  "author": "Manav",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "http-status-codes": "^2.3.0"
+  }
+}
